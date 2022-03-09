@@ -1,3 +1,5 @@
+![Happhee_log-004](https://user-images.githubusercontent.com/79238676/157381191-7d90552e-e50e-47fc-a092-73ff9a3a2853.png)
+
 
 # 호이스팅이란?
 > 모든 선언이 코드의 선두로 끌어올려진 것처럼 동작하는 자바스크립트 고유의 특징이다
