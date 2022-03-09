@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/79238676/157382078-769eaa85-5804-43a9-95d9-33f1f5159c86.png)
+
 
 # HTTP
 > Hyper Text Transfer Protocol로 불리며, 클라이언트와 서버 간의 request-response protocol로 작용한다
