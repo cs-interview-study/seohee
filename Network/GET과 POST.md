@@ -10,7 +10,7 @@
 
 ## REST 
 > Representational State Transfer의 약자로 다음과 같다.
-- ```URI``` 자원
+- [URI](https://velog.io/@seohee0112/URI-%EC%99%80-URL) 자원
 - ```HTTP Method``` 행위
 - ```Representations``` 표현
 
