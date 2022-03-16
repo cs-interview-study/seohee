@@ -1,5 +1,5 @@
 
-![React](https://user-images.githubusercontent.com/79238676/158568030-1d7ca271-c374-4483-945a-012769ac0e91.png)
+![React](https://user-images.githubusercontent.com/79238676/158568192-4caf58e7-5fd8-40e3-a4f9-51e06139aa58.png)
 
 - [React란?](https://velog.io/@seohee0112/React%EB%9E%80)
 - [Virtual DOM](https://velog.io/@seohee0112/Virtual-DOM)
