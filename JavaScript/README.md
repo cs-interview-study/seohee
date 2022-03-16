@@ -5,3 +5,4 @@
 - [Hoisting](https://velog.io/@seohee0112/Hoisting)
 - [Event Bubbling / Capturing](https://velog.io/@seohee0112/Event-Bubbling-Capturing)
 - [this](https://velog.io/@seohee0112/this-7boxlr9i)
+- [Closure](https://velog.io/@seohee0112/Closure)
