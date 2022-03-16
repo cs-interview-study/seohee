@@ -1,5 +1,4 @@
-![004](https://user-images.githubusercontent.com/79238676/157382169-720f8da3-c6cc-4577-a857-e2a50953bb9b.png)
-
+![JS](https://user-images.githubusercontent.com/79238676/158568374-20176f63-6da3-479c-9083-c5abde253ea3.png)
 - [Javascript란?](https://velog.io/@seohee0112/Javascript)
 - [Execute-context](https://velog.io/@seohee0112/Execute-context)
 - [Hoisting](https://velog.io/@seohee0112/Hoisting)
