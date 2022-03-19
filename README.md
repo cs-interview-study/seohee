@@ -24,6 +24,7 @@
 - [[ 비동기 처리 ] Callback](https://velog.io/@seohee0112/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-Callback)
 - [[ 비동기 처리 ] Promise](https://velog.io/@seohee0112/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-Promise)
 - [[ 비동기 처리 ] async / await](https://velog.io/@seohee0112/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-async-await)
+- [Event Loop](https://velog.io/@seohee0112/Event-Loop)
 
 ---
 ### [React](https://velog.io/@seohee0112/series/React)
